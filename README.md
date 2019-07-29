@@ -1,2 +1,2 @@
-# DESTINATION-DOOR
-This project was based on ONE-TIME Billing System, where the user needs to book a ticket and pay the amount at once only. Facilities like a cab or taxi will be available at the source it will take him/her to desired Airport/Railway Station/Bus Stand where he/she will have a mode to travel. After travelling he/she will be provided a another cab or taxi to leave to the desired location. Here the user has paid the amount once and enjoyed the services fruitfully.
+# Destination-Door
+The First Main Page is Index.html
